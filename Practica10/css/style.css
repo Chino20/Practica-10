@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+article{
+    background-color: #eaeaea;
+}
+nav{
+    background-color: #590fc9;
+}
+nav ul li a{
+    color: #ffffff;
+}
+nav ul li a:hover{
+    color: #FFFFFF;
+}
+footer{    
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: #590fc9;
+    color: white;
+    text-align: left;
+    padding: 3%;
+}
